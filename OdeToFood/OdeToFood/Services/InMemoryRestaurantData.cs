@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace OdeToFood.Services
 {
+    /*
     public class InMemoryRestaurantData : IRestaurantData
     {
 
@@ -39,4 +40,5 @@ namespace OdeToFood.Services
         List<Restaurant> _restaurants;
 
     }
+    */
 }
